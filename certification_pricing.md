@@ -12,10 +12,8 @@ Current pricing model assumes you're enrolled into the Masters of Cyber Security
 ## Degree
 - Masters, yay.
 
-## Cost
+## Cost of WGU
 - ~$4,500.00 if completed within six months
-
-Here's the information in markdown format:  
 
 # Red Team Certifications and Costs
 Note: The below needs to be vetted. (ChatGPT filled in the gaps for some of the entries, as I was having a difficult time locating these)
