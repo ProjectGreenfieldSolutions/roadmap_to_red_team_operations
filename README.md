@@ -50,6 +50,7 @@
 ### Certifications
 - CompTIA PenTest+
 - eCPPT or PNPT (Pick one, better than CEH)
+  - At the moment, 02/15/2025, I think PNPT is the better option
   - **eCPPT**
     - Covers real-world penetration testing: web apps, networks, and privilege escalation
     - AD Attacks
