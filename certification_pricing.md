@@ -17,7 +17,10 @@ Current pricing model assumes you're enrolled into the Masters of Cyber Security
 
 # Red Team Certifications and Costs
 Note: The below needs to be vetted. (ChatGPT filled in the gaps for some of the entries, as I was having a difficult time locating these)
-## PNPT (Practical Network Penetration Tester)  
+- Vetted
+  - CPTS
+  - 
+## PNPT (Practical Network Penetration Tester)
 - **Found at:** TCM Security  
 - **Price:** $500.00  
 - **Details:** A hands-on penetration testing certification focusing on real-world attack chains, including report writing and an Active Directory lab.  
@@ -25,7 +28,7 @@ Note: The below needs to be vetted. (ChatGPT filled in the gaps for some of the 
 ## CPTS (Certified Penetration Tester Specialist)  
 - **Found at:** Hack The Box  
 - **Exam is included with the Silver Annual subscription**  
-- **Price otherwise:** $400.00+ (Exact price difficult to find)  
+- **Price otherwise:** $210.00
 
 ## OSCP (Offensive Security Certified Professional)  
 - **Found at:** Offensive Security  
